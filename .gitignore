@@ -1,3 +1,3 @@
 .vs/
-env/
 .git/
+__pycache__/
